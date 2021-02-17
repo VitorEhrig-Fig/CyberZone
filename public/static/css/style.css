@@ -373,7 +373,34 @@ a.active, a:hover {
 .card-post{
 	margin-left: 7%;
 	margin-right: 7%;
-	
+}
+
+.card-post h1 {
+	color: white;
+}
+
+.card-post h2 {
+	color: white;
+}
+
+.card-post h3 {
+	color: white;
+}
+
+.card-post h4 {
+	color: white;
+}
+
+.card-post h5 {
+	color: white;
+}
+
+.card-post h6 {
+	color: white;
+}
+
+.card-post p {
+	color: white;
 }
 
 .backg{
@@ -1611,4 +1638,11 @@ input[type="file"] {
 
 .btn-botstrap {
 	background-color: #242847;
+}
+
+/* ___ mods ___ */
+
+.text-author {
+    color: white;
+    font-size: 1.7rem;
 }
